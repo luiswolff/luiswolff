@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luiswolff
-- 👀 I’m interested in software science
+- 👀 I’m interested in creating software for business use
 - 🌱 I’m currently I’m working as a software developer
 
 <!---
